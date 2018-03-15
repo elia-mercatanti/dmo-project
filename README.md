@@ -1,3 +1,8 @@
-# Progetto DMO
+# README # 
+Progetto per il laboratorio di Architetture degli Elaboratori. Quattro semplici programmi sviluppati nel linguaggio assembly per l'architettura MIPS. Per una descrizione più approfondita fare riferimento alla relazione del progetto.
 
-Progetto sciluppato per il corso di Data Mining and Organization basato sullo studio di un database legato ad alcuni studenti iscritti al corso di Informatica dell&#39;UniversitÃ  di Firenze.
+### Autori ###
+* Elia Mercatanti
+* Michele De Vita
+* Marco Calamai
+* Matteo Gemignani
